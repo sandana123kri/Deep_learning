@@ -1,7 +1,3 @@
-Here's a more detailed README file in 300 words:
-
----
-
 # Deep Learning Implementations
 
 This repository contains two separate implementations of deep learning models using dense neural networks. These models demonstrate the use of dense layers for different supervised learning tasks: classification and regression.
